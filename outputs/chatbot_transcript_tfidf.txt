@@ -1,0 +1,14 @@
+FAQ assistant. Type exit to stop.
+You: How do I reset my password?
+Bot: Use the recovery link on the login page. [source: it_help.txt]
+You: password recovery
+Bot: Possible matches; choose or rephrase your question:
+How do I reset my password? (similarity 0.422)
+How do I connect to campus Wi-Fi? (similarity 0.110)
+You: 
+Bot: Please enter a question.
+You: volcano geology
+Bot: No matching FAQ. Please contact the help desk.
+You: wifi not working
+Bot: No matching FAQ. Please contact the help desk.
+You: exit
